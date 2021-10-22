@@ -1,1 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=gqcn&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff" alt="JohnGuo's GitHub stats" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gqcn&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gqcn&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gqcn&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gqcn&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gqcn&theme=github)
